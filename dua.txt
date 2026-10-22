@@ -4,3 +4,5 @@ ini line kedua
 ini line kedua
 ni line kedua
 ni line kedua
+
+ni line baru
